@@ -65,7 +65,7 @@
     <dependency>
       <groupId>org.jiemamy</groupId>
       <artifactId>factory-enhancer</artifactId>
-      <version>0.2.0</version>
+      <version>${project.version}</version>
     </dependency>
     <dependency>
       <groupId>aopalliance</groupId>
